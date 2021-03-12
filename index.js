@@ -30,7 +30,7 @@ const request = require('request');
 const dateFormat = require('dateformat');
 
 const prefix = "-"
-const developers = "ايديك"
+const developers = "595307298063122456"
 
 client.on('message', badboy => {
   if(badboy.content.startsWith(prefix + "bc")){
